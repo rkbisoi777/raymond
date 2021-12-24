@@ -368,12 +368,11 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 317px;
+    min-height: 292px;
   }
 
   .u-section-4 .u-list-1 {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-right: initial;
     margin-left: initial;
   }

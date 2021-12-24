@@ -903,10 +903,14 @@
 
   .u-section-8 .u-carousel-control-1 {
     left: 0;
+    width: 20px;
+    height: 20px;
   }
 
   .u-section-8 .u-carousel-control-2 {
     right: 0;
+    width: 20px;
+    height: 20px;
   }
 }.u-section-9 .u-sheet-1 {
   min-height: 955px;
@@ -969,6 +973,7 @@
   left: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 .u-section-9 .u-carousel-control-2 {
@@ -976,6 +981,7 @@
   right: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 @media (max-width: 1199px) {

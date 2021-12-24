@@ -33871,21 +33871,20 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
-    width: 180px;
-    height: 36px;
+    width: auto;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: auto;
+    height: 36px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
+    width: 180px;
     margin-top: 22px;
     margin-bottom: 22px;
-    width: auto;
-    height: auto;
   }
 }
 .u-footer {

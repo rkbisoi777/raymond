@@ -33860,6 +33860,10 @@ a.u-link.u-text-hover-grey-90:hover {
   max-height: 200px;
 }
 @media (max-width: 1199px) {
+  .u-header .u-image-1 {
+    width: 200px;
+  }
+
   .u-header .u-logo-image-1 {
     max-width: 180px;
     max-height: 180px;

@@ -33893,37 +33893,37 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 343px;
 }
 
 .u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
+  margin: 36px 0 0;
 }
-@media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
-  }
-}
-@media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
-  }
-}
-@media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
-  }
-}
-@media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
-  }
 
-  .u-footer .u-text-1 {
-    width: 340px;
-  }
+.u-footer .u-text-2 {
+  margin: 20px 0 0;
 }
+
+.u-footer .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-footer .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-footer .u-text-5 {
+  margin: 20px 0 36px;
+}
+
+
+
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }

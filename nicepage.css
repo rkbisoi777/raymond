@@ -33896,7 +33896,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
-  margin: 36px 0 0;
+  margin: 90px 0 0;
 }
 
 .u-footer .u-text-2 {
@@ -33921,7 +33921,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
-
+@media (max-width: 767px) {
+  .u-footer .u-text-1 {
+    margin-top: 60px;
+  }
+}
 
 
  /*begin-variables base-font-size*/ 

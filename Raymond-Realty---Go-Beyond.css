@@ -509,7 +509,7 @@
 .u-section-6 .u-text-6 {
   line-height: 1.8;
   font-size: 0.875rem;
-  margin: 26px 26px 0;
+  margin: 26px 27px 0;
 }
 
 @media (max-width: 1199px) {
@@ -1423,7 +1423,7 @@
 .u-section-11 .u-tabs-1 {
   min-height: 316px;
   margin-top: 37px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .u-section-11 .u-tab-link-1 {
@@ -1541,10 +1541,15 @@
   padding: 30px 12px 4px 30px;
 }
 
+.u-section-11 .u-btn-3 {
+  border-style: none none solid;
+  margin: 180px 441px 0 auto;
+  padding: 0;
+}
+
 .u-section-11 .u-table-3 {
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-right: 18px;
+  width: 1080px;
+  margin: -233px auto 60px;
 }
 
 .u-block-cfcd-90 {
@@ -1571,17 +1576,7 @@
   text-transform: uppercase;
 }
 
-.u-section-11 .u-btn-3 {
-  border-style: none none solid;
-  margin: -43px 441px 0 auto;
-  padding: 0;
-}
-
 @media (max-width: 1199px) {
-  .u-section-11 .u-tabs-1 {
-    height: auto;
-  }
-
   .u-section-11 .u-container-layout-1 {
     padding-bottom: 11px;
   }
@@ -1605,15 +1600,12 @@
     padding-left: 21px;
   }
 
-  .u-section-11 .u-table-3 {
-    width: 880px;
-    margin-right: auto;
-    margin-left: 9px;
+  .u-section-11 .u-btn-3 {
+    margin-right: 241px;
   }
 
-  .u-section-11 .u-btn-3 {
-    margin-top: -39px;
-    margin-right: 343px;
+  .u-section-11 .u-table-3 {
+    width: 940px;
   }
 }
 
@@ -1632,13 +1624,12 @@
     margin-right: 216px;
   }
 
-  .u-section-11 .u-table-3 {
-    width: 660px;
+  .u-section-11 .u-btn-3 {
+    margin-right: 21px;
   }
 
-  .u-section-11 .u-btn-3 {
-    margin-top: -40px;
-    margin-right: 235px;
+  .u-section-11 .u-table-3 {
+    width: 720px;
   }
 }
 
@@ -1669,13 +1660,12 @@
     padding-right: 10px;
   }
 
-  .u-section-11 .u-table-3 {
-    width: 520px;
-    margin-left: 0;
+  .u-section-11 .u-btn-3 {
+    margin-right: 0;
   }
 
-  .u-section-11 .u-btn-3 {
-    margin-right: 146px;
+  .u-section-11 .u-table-3 {
+    width: 540px;
   }
 }
 
@@ -1694,11 +1684,7 @@
   }
 
   .u-section-11 .u-table-3 {
-    width: 320px;
-  }
-
-  .u-section-11 .u-btn-3 {
-    margin-right: 45px;
+    width: 340px;
   }
 }.u-section-12 {
   background-image: none;
